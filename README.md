@@ -9,5 +9,6 @@
 <br/><br/>--->
 Replication code, raw data, and pre-processed data are available [here](https://datadryad.org/share/VOy4zv2Na1RZxSyKvEQfCWQJKHf6QCXYhNBcLU-5P_c).
 
+[Paper (ungated)](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&dl=0)
 <!-- Full paper and appendices available 
 [here](https://advances.sciencemag.org/content/4/7/eaat1613). -->
