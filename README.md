@@ -7,7 +7,7 @@
 
 <!---<a href="url"><img src="http://oi65.tinypic.com/1428uww.jpg" align="left" height="500" width="500" ></a>
 <br/><br/>--->
-Replication code, raw data, and pre-processed data are available [here](https://www.openicpsr.org/openicpsr/project/234047/version/V1/view).
+Replication code and data are available [here](https://www.openicpsr.org/openicpsr/project/234047/version/V1/view).
 
 [Paper (ungated)](https://www.dropbox.com/scl/fi/yj2553xvefp7e2gtetdeo/CAFO_AJAE.pdf?rlkey=0i5o5m8xv6slchw3wil5ojoj7&dl=0)
 <!-- Full paper and appendices available 
